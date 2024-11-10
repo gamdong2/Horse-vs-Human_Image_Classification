@@ -46,7 +46,7 @@
 
 ### 구현 기능
 - 다양한 이미지 증강 기법을 통해 데이터 증강
-- MobileNetV2, ResNet50, VGGNet16, DenseNet121 네 가지 모델을 통해 성능 비교
+- MobileNetV2, ResNet50, V의 성능 비교
 - MobileNetV2가 가장 높은 성능(정확도 96%, F1-Score 0.96, ROC-AUC 0.95)을 기록하여 최적 모델로 선정
 
 ## 트러블 슈팅
