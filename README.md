@@ -7,9 +7,6 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
 
-## 프로젝트 제목
-**Horse vs Human 이미지 분류 모델 개발 및 성능 분석**
-
 ## 프로젝트 상세
 - **진행 기간**: 2024년 9월 5일 ~ 2024년 9월 9일
 - **프로젝트 유형**: 팀 프로젝트
